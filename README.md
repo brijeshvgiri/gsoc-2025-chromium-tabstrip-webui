@@ -2,14 +2,12 @@
 
 ### Chromium: Debug WebUI for Tabstrip States
 
-Organization: The Chromium Project  
-Mentors: 
-[Darryl James](https://chromium-review.googlesource.com/q/owner:dljames@chromium.org),  
-[Shibalik Mohapatra](https://chromium-review.googlesource.com/q/owner:shibalik@chromium.org),  
-[Atharv Maan](https://chromium-review.googlesource.com/q/owner:atharvmaan@chromium.org)  
-Contributor:
+**Organization:** The Chromium Project  
+**Mentors:** [Darryl James](https://chromium-review.googlesource.com/q/owner:dljames@chromium.org), [Shibalik Mohapatra](https://chromium-review.googlesource.com/q/owner:shibalik@chromium.org), [Atharv Maan](https://chromium-review.googlesource.com/q/owner:atharvmaan@chromium.org)  
+**Contributor:**
 [Brijesh Giri](https://chromium-review.googlesource.com/q/owner:brijeshvgiri@gmail.com)  
-Project Duration: May – August 2025
+**Project Area:** Desktop Top Chrome
+**Project Duration:** May – August 2025
 
 ## Project Summary
 
@@ -35,16 +33,6 @@ The WebUI helps developers debug and inspect complex tab behaviors by exposing i
 
 - Performing any state-changing actions from the WebUI  
 - Fixing existing tabstrip/session bugs (debug-only focus)
-
-## Team
-
-| Role | Name |
-|------|------|
-| **Contributor** | [Your Name] |
-| **Mentor 1** | Darryl James |
-| **Mentor 2** | Shibalik Mohapatra |
-| **Mentor 3** | Atharv Maan |
-| **Project Area** | Desktop Top Chrome |
 
 ## How To Access
 
