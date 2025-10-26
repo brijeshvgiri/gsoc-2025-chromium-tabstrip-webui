@@ -12,9 +12,9 @@
 
 ## Project Summary
 
-This project implements a **read-only WebUI page** in Chromium (chrome://tab-debug) that provides a live, structured visualization of the **tabstrip model**, including tab groups, selection state, and session-restore metadata.
+This project implements a **read-only WebUI page** in Chromium (chrome://tab-strip-internals) that provides a live, structured visualization of the **tabstrip model**, including tab groups, selection state, and session-restore metadata.
 
-The WebUI helps developers debug and inspect complex tab behaviors by exposing internal C++ model data through a **Mojo interface** and rendering it in a **TypeScript-based frontend**.
+The WebUI helps developers debug and inspect complex tab behaviors by exposing internal C++ model data from the TabStripModel, TabRestore Service, and Session Service through a **Mojo interface** and rendering it in a **TypeScript-based frontend**.
 
 ### Key Features
 - Real-time updates of the tabstrip model  
@@ -49,8 +49,8 @@ Open the page:
 
 | Resource | Description |
 |-----------|-------------|
-| [📄 Project Proposal](https://docs.google.com/document/d/e/2PACX-1vRxbZNAwQaeUCgdnjFE9greSpvEhY9ikNFrr4Bx2XUt5TZ6xYlrZY64dA2ijjXdW6Vd2DadDBgmB68s/pub) | The original GSoC proposal outlining goals, timeline, and technical details. |
-| [🎞️ Presentation Slides](https://docs.google.com/presentation/d/1flYoOy7ZYUmdnPUZ1WZG4AbTBqxyrEihbS9rJepRhp4/edit?usp=sharing) | Final presentation summarizing progress and demo walkthrough. |
+| [Project Proposal](https://docs.google.com/document/d/e/2PACX-1vRxbZNAwQaeUCgdnjFE9greSpvEhY9ikNFrr4Bx2XUt5TZ6xYlrZY64dA2ijjXdW6Vd2DadDBgmB68s/pub) | The original GSoC proposal that got selected (Future contributors can use for reference). |
+| [Presentation Slides](https://docs.google.com/presentation/d/1flYoOy7ZYUmdnPUZ1WZG4AbTBqxyrEihbS9rJepRhp4/edit?usp=sharing) | Mid-project presentation summarizing progress and findings. |
 | [🐞 Buganizer Issue](https://issues.chromium.org/issues/427204855) | Internal issue tracker entry for project tracking during GSoC. |
 | [🧑‍💻 Contributor Gerrit](https://chromium-review.googlesource.com/q/owner:brijeshvgiri@gmail.com) | All related Chromium code reviews (Gerrit). |
 
@@ -67,8 +67,6 @@ Example:
 | File / Folder | Description |
 |---------------|-------------|
 | README.md | Project summary and documentation |
-| docs/ | Proposal, presentation, and static assets |
-| patches/ | Gerrit CLs submitted during GSoC |
 | demo/ | Screenshots or GIF demos of the WebUI |
 
 ## Acknowledgments
