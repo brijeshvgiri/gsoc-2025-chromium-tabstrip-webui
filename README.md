@@ -1,15 +1,15 @@
 # Google Summer of Code 2025 
 
-## Chromium: Debug WebUI for Tabstrip States
+Chromium: Debug WebUI for Tabstrip States
 
-**Organization:** The Chromium Project  
-**Mentors:**  
+Organization: The Chromium Project  
+Mentors: 
 [Darryl James](https://chromium-review.googlesource.com/q/owner:dljames@chromium.org),  
 [Shibalik Mohapatra](https://chromium-review.googlesource.com/q/owner:shibalik@chromium.org),  
 [Atharv Maan](https://chromium-review.googlesource.com/q/owner:atharvmaan@chromium.org)  
-**Contributor:** 
+Contributor:
 [Brijesh Giri](https://chromium-review.googlesource.com/q/owner:brijeshvgiri@gmail.com)  
-**Project Duration:** May – August 2025
+Project Duration: May – August 2025
 ---
 
 ## Project Summary
