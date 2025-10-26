@@ -1,6 +1,6 @@
 # Google Summer of Code 2025 
 
-Chromium: Debug WebUI for Tabstrip States
+### Chromium: Debug WebUI for Tabstrip States
 
 Organization: The Chromium Project  
 Mentors: 
@@ -10,8 +10,6 @@ Mentors:
 Contributor:
 [Brijesh Giri](https://chromium-review.googlesource.com/q/owner:brijeshvgiri@gmail.com)  
 Project Duration: May – August 2025
-
----
 
 ## Project Summary
 
@@ -25,8 +23,6 @@ The WebUI helps developers debug and inspect complex tab behaviors by exposing i
 - Raw data toggle for deep inspection  
 - Strictly **read-only** access to maintain browser safety
 
----
-
 ## Goals
 
 - Create a WebUI chrome page similar to chrome://tab-search.top-chrome/  
@@ -35,14 +31,10 @@ The WebUI helps developers debug and inspect complex tab behaviors by exposing i
 - Integrate session information from session restore  
 - Ensure complete read-only access (no modification actions)
 
----
-
 ## Non-Goals
 
 - Performing any state-changing actions from the WebUI  
 - Fixing existing tabstrip/session bugs (debug-only focus)
-
----
 
 ## Team
 
@@ -54,9 +46,7 @@ The WebUI helps developers debug and inspect complex tab behaviors by exposing i
 | **Mentor 3** | Atharv Maan |
 | **Project Area** | Desktop Top Chrome |
 
----
-
-## Accessing the Built Feature
+## How To Access
 
 To launch Chromium with the feature flag:
 
@@ -66,15 +56,11 @@ Open the page:
 
     chrome://tab-strip-internals
 
----
-
 ## Key Links
 
 - Proposal: https://docs.google.com/document/d/e/2PACX-1vRxbZNAwQaeUCgdnjFE9greSpvEhY9ikNFrr4Bx2XUt5TZ6xYlrZY64dA2ijjXdW6Vd2DadDBgmB68s/pub  
 - Presentation: https://docs.google.com/presentation/d/1flYoOy7ZYUmdnPUZ1WZG4AbTBqxyrEihbS9rJepRhp4/edit?usp=sharing
 - Issue Tracker - Buganizer (Google's internal issue tracker): https://issues.chromium.org/issues/427204855
-
----
 
 ## TODO: Add Demo GIF
 
@@ -83,8 +69,6 @@ Example:
 
 - Demo GIF: (Add embedded gif here) 
 - Screenshot Gallery: demo/
-
----
 
 ## Repository Contents
 
@@ -95,8 +79,6 @@ Example:
 | patches/ | Gerrit CLs submitted during GSoC |
 | demo/ | Screenshots or GIF demos of the WebUI |
 
----
-
 ## Acknowledgments
 
 Special thanks to my mentors for their constant support and technical guidance throughout the project:
@@ -106,8 +88,6 @@ Special thanks to my mentors for their constant support and technical guidance t
 - **[Atharv Maan](https://chromium-review.googlesource.com/q/owner:atharvmaan%2540chromium.org)**
 
 Thanks also to the Chromium community for maintaining an incredible open-source ecosystem and for their reviews and discussions throughout the GSoC period.
-
----
 
 ## License
 
