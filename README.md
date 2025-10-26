@@ -2,18 +2,19 @@
 
 ### Chromium: Debug WebUI for Tabstrip States
 
-**Organization:** The Chromium Project  
-**Mentors:** [Darryl James](https://chromium-review.googlesource.com/q/owner:dljames@chromium.org), [Shibalik Mohapatra](https://chromium-review.googlesource.com/q/owner:shibalik@chromium.org), [Atharv Maan](https://chromium-review.googlesource.com/q/owner:atharvmaan@chromium.org)  
-**Contributor:**
-[Brijesh Giri](https://chromium-review.googlesource.com/q/owner:brijeshvgiri@gmail.com)  
-**Project Area:** Desktop Top Chrome <br/>
-**Project Duration:** May – August 2025
+| Role | Description |
+|------|--------------|
+| **Organization** | The Chromium Project |
+| **Mentors** | [Darryl James](https://chromium-review.googlesource.com/q/owner:dljames@chromium.org), [Shibalik Mohapatra](https://chromium-review.googlesource.com/q/owner:shibalik@chromium.org), [Atharv Maan](https://chromium-review.googlesource.com/q/owner:atharvmaan@chromium.org) |
+| **Contributor** | [Brijesh Giri](https://chromium-review.googlesource.com/q/owner:brijeshvgiri@gmail.com) |
+| **Project Area** | Desktop Top Chrome |
+| **Duration** | May – August 2025 |
 
 ## Project Summary
 
 This project implements a **read-only WebUI page** in Chromium (chrome://tab-debug) that provides a live, structured visualization of the **tabstrip model**, including tab groups, selection state, and session-restore metadata.
 
-The WebUI helps developers debug and inspect complex tab behaviors by exposing internal C++ model data through a **Mojo interface** and rendering it in a **Lit-based TypeScript frontend**.
+The WebUI helps developers debug and inspect complex tab behaviors by exposing internal C++ model data through a **Mojo interface** and rendering it in a **TypeScript-based frontend**.
 
 ### Key Features
 - Real-time updates of the tabstrip model  
@@ -46,13 +47,16 @@ Open the page:
 
 ## Key Links
 
-- Proposal: https://docs.google.com/document/d/e/2PACX-1vRxbZNAwQaeUCgdnjFE9greSpvEhY9ikNFrr4Bx2XUt5TZ6xYlrZY64dA2ijjXdW6Vd2DadDBgmB68s/pub  
-- Presentation: https://docs.google.com/presentation/d/1flYoOy7ZYUmdnPUZ1WZG4AbTBqxyrEihbS9rJepRhp4/edit?usp=sharing
-- Issue Tracker - Buganizer (Google's internal issue tracker): https://issues.chromium.org/issues/427204855
+| Resource | Description |
+|-----------|-------------|
+| [📄 Project Proposal](https://docs.google.com/document/d/e/2PACX-1vRxbZNAwQaeUCgdnjFE9greSpvEhY9ikNFrr4Bx2XUt5TZ6xYlrZY64dA2ijjXdW6Vd2DadDBgmB68s/pub) | The original GSoC proposal outlining goals, timeline, and technical details. |
+| [🎞️ Presentation Slides](https://docs.google.com/presentation/d/1flYoOy7ZYUmdnPUZ1WZG4AbTBqxyrEihbS9rJepRhp4/edit?usp=sharing) | Final presentation summarizing progress and demo walkthrough. |
+| [🐞 Buganizer Issue](https://issues.chromium.org/issues/427204855) | Internal issue tracker entry for project tracking during GSoC. |
+| [🧑‍💻 Contributor Gerrit](https://chromium-review.googlesource.com/q/owner:brijeshvgiri@gmail.com) | All related Chromium code reviews (Gerrit). |
 
 ## TODO: Add Demo GIF
 
-TODO: Add recorded demo, screenshots, or GIFs  
+TODO: Add recorded demo, screenshots, or GIFs  <br/>
 Example:
 
 - Demo GIF: (Add embedded gif here) 
