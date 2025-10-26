@@ -44,9 +44,9 @@ The WebUI helps developers debug and inspect complex tab behaviors by exposing i
 | [Buganizer Issue](https://issues.chromium.org/issues/427204855) <br> | Google's internal issue tracker entry for project tracking during GSoC. |
 | [Contributor Gerrit](https://chromium-review.googlesource.com/q/owner:brijeshvgiri@gmail.com) <br> | All related Chromium code reviews (Gerrit). |
 
-## What was built
+## How to Access
 
-To access the feature that was built as part of this project, launch Chromium with the feature flag:
+To access the developed feature, launch Chromium with the feature flag:
 
     out/Default/chrome --enable-features=DebugUITabStrip
 
