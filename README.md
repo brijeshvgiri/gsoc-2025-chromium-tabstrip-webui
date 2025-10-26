@@ -49,11 +49,10 @@ Open the page:
 
 | Resource | Description |
 |-----------|-------------|
-| [Project Proposal](https://docs.google.com/document/d/e/2PACX-1vRxbZNAwQaeUCgdnjFE9greSpvEhY9ikNFrr4Bx2XUt5TZ6xYlrZY64dA2ijjXdW6Vd2DadDBgmB68s/pub) | The original GSoC proposal that was selected 
-(Future contributors can refer to this). |
-| [Presentation Slides](https://docs.google.com/presentation/d/1flYoOy7ZYUmdnPUZ1WZG4AbTBqxyrEihbS9rJepRhp4/edit?usp=sharing) | Mid-project presentation summarizing progress and findings. |
-| [Buganizer Issue](https://issues.chromium.org/issues/427204855) | Google's internal issue tracker entry for project tracking during GSoC. |
-| [Contributor Gerrit](https://chromium-review.googlesource.com/q/owner:brijeshvgiri@gmail.com) | All related Chromium code reviews (Gerrit). |
+| [Project Proposal](https://docs.google.com/document/d/e/2PACX-1vRxbZNAwQaeUCgdnjFE9greSpvEhY9ikNFrr4Bx2XUt5TZ6xYlrZY64dA2ijjXdW6Vd2DadDBgmB68s/pub) <br> | The original GSoC proposal that was selected. <br> (Future contributors can refer to this.) |
+| [Presentation Slides](https://docs.google.com/presentation/d/1flYoOy7ZYUmdnPUZ1WZG4AbTBqxyrEihbS9rJepRhp4/edit?usp=sharing) <br> | Mid-project presentation summarizing progress and findings. |
+| [Buganizer Issue](https://issues.chromium.org/issues/427204855) <br> | Google's internal issue tracker entry for project tracking during GSoC. |
+| [Contributor Gerrit](https://chromium-review.googlesource.com/q/owner:brijeshvgiri@gmail.com) <br> | All related Chromium code reviews (Gerrit). |
 
 ## TODO: Add Demo GIF
 
