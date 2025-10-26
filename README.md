@@ -1,14 +1,19 @@
-# Google Summer of Code 2025 - Chromium: Debug WebUI for Tabstrip States
+# Google Summer of Code 2025 
+
+## Chromium: Debug WebUI for Tabstrip States
 
 **Google Summer of Code 2025 – Chromium Project**  
 **Organization:** The Chromium Project  
-**Mentors:** Darryl James, Shibalik Mohapatra, Atharv Maan  
-**Contributor:** [Your Full Name]  
-**Project Duration:** May – August 2025
+**Mentors:**  
+[Darryl James](https://chromium-review.googlesource.com/q/owner:darryljames%2540chromium.org),  
+[Shibalik Mohapatra](https://chromium-review.googlesource.com/q/owner:shibalik%2540chromium.org),  
+[Atharv Maan](https://chromium-review.googlesource.com/q/owner:atharvmaan%2540chromium.org)  
+**Contributor:** [Brijesh Giri](https://chromium-review.googlesource.com/q/owner:brijeshvgiri%2540gmail.com)  
+**Project Duration:** May – Nov 2025
 
 ---
 
-## 🧭 Project Summary
+## Project Summary
 
 This project implements a **read-only WebUI page** in Chromium (chrome://tab-debug) that provides a live, structured visualization of the **tabstrip model**, including tab groups, selection state, and session-restore metadata.
 
@@ -22,7 +27,7 @@ The WebUI helps developers debug and inspect complex tab behaviors by exposing i
 
 ---
 
-## 🎯 Goals
+## Goals
 
 - Create a WebUI chrome page similar to chrome://tab-search.top-chrome/  
 - Visualize the tabstrip model as a hierarchical tree  
@@ -32,14 +37,14 @@ The WebUI helps developers debug and inspect complex tab behaviors by exposing i
 
 ---
 
-## 🚫 Non-Goals
+## Non-Goals
 
 - Performing any state-changing actions from the WebUI  
 - Fixing existing tabstrip/session bugs (debug-only focus)
 
 ---
 
-## 👥 Team
+## Team
 
 | Role | Name |
 |------|------|
@@ -51,7 +56,7 @@ The WebUI helps developers debug and inspect complex tab behaviors by exposing i
 
 ---
 
-## 🧪 Accessing the Built Feature
+## Accessing the Built Feature
 
 To launch Chromium with the feature flag:
 
@@ -63,7 +68,7 @@ Open the page:
 
 ---
 
-## 🔗 Key Links
+## Key Links
 
 - Proposal: https://docs.google.com/document/d/e/2PACX-1vRxbZNAwQaeUCgdnjFE9greSpvEhY9ikNFrr4Bx2XUt5TZ6xYlrZY64dA2ijjXdW6Vd2DadDBgmB68s/pub  
 - Presentation: https://docs.google.com/presentation/d/1flYoOy7ZYUmdnPUZ1WZG4AbTBqxyrEihbS9rJepRhp4/edit?usp=sharing
@@ -71,7 +76,7 @@ Open the page:
 
 ---
 
-## 📺 TODO: Add Demo GIF
+## TODO: Add Demo GIF
 
 TODO: Add recorded demo, screenshots, or GIFs  
 Example:
@@ -81,7 +86,7 @@ Example:
 
 ---
 
-## 📁 Repository Contents
+## Repository Contents
 
 | File / Folder | Description |
 |---------------|-------------|
@@ -92,13 +97,19 @@ Example:
 
 ---
 
-## 💬 Acknowledgments
+## Acknowledgments
 
-Special thanks to my mentors **Darryl James**, **Shibalik Mohapatra**, and **Atharv Maan** for their guidance, and to the Chromium community for maintaining an incredible open-source ecosystem.
+Special thanks to my mentors for their constant support and technical guidance throughout the project:
+
+- **[Darryl James](https://chromium-review.googlesource.com/q/owner:darryljames%2540chromium.org)**
+- **[Shibalik Mohapatra](https://chromium-review.googlesource.com/q/owner:shibalik%2540chromium.org)**
+- **[Atharv Maan](https://chromium-review.googlesource.com/q/owner:atharvmaan%2540chromium.org)**
+
+Thanks also to the Chromium community for maintaining an incredible open-source ecosystem and for their reviews and discussions throughout the GSoC period.
 
 ---
 
-## 📜 License
+## License
 
 This repository and accompanying documentation are shared publicly for archival and educational purposes.  
 All Chromium-related code remains under the **BSD license** as governed by the Chromium project.
