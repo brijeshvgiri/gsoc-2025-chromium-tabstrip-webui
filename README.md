@@ -56,11 +56,14 @@ Open the page:
 
 ## TODO: Add Demo GIF
 
-TODO: Add recorded demo, screenshots, or GIFs  <br/>
-Example:
+A demo GIF showcasing real-time tabstrip state updates will be added here
+once the feature stabilizes across platforms.
 
-- Demo GIF: (Add embedded gif here) 
-- Screenshot Gallery: demo/
+Planned additions:
+- Live tab creation / removal
+- Tab group state visualization
+- Session restore metadata preview
+- Session restore metadata preview
 
 ## Repository Contents
 
