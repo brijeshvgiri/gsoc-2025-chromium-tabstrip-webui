@@ -1,1 +1,3 @@
-### Demo assets stored in this folder
+## Demo Assets
+
+This folder contains demo assets.
