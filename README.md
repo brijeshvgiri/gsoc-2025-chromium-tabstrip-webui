@@ -8,7 +8,7 @@
 | **Mentors** | [Darryl James](https://chromium-review.googlesource.com/q/owner:dljames@chromium.org), [Shibalik Mohapatra](https://chromium-review.googlesource.com/q/owner:shibalik@chromium.org), [Atharv Maan](https://chromium-review.googlesource.com/q/owner:atharvmaan@chromium.org) |
 | **Contributor** | [Brijesh Giri](https://chromium-review.googlesource.com/q/owner:brijeshvgiri@gmail.com) |
 | **Project Area** | Desktop Top Chrome |
-| **Duration** | May – August 2025 |
+| **Duration** | May – Nov 2025 |
 
 ## Project Summary
 
