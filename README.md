@@ -61,13 +61,11 @@ Examples:
 
 All Chromium-based browsers (Google Chrome, Edge, Brave, etc.) support this page.
 
-## TODO: Add Demo GIF
+## Demo
 
-TODO: Add recorded demo, screenshots, or GIFs  <br/>
-Example:
+Example of the WebUI showing the live tabstrip model, tab groups, and session metadata.
 
-- Demo GIF: (Add embedded gif here) 
-- Screenshot Gallery: demo/
+ ![Tab Strip Internals Demo](demo/final-check.gif)
 
 ## Repository Contents
 
