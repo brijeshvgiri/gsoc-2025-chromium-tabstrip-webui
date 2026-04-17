@@ -64,8 +64,12 @@ All Chromium-based browsers (Google Chrome, Edge, Brave, etc.) support this page
 ## Demo
 
 Example of the WebUI showing the live tabstrip model, tab groups, and session metadata.
-
- ![Tab Strip Internals Demo](demo/final-check.gif)
+<br/>
+<br/>
+<p align="center">
+  <img src="demo/final-check.gif" alt="Tab Strip Internals Demo" width="900">
+</p>
+<br/>
 
 ## Repository Contents
 
