@@ -46,13 +46,20 @@ The WebUI helps developers debug and inspect complex tab behaviors by exposing i
 
 ## How to Access
 
-To access the developed feature, launch Chromium with the feature flag:
-
-    out/Default/chrome --enable-features=DebugUITabStrip
-
-Open the page:
+To access the developed feature, open the following internal page in your browser:
 
     chrome://tab-strip-internals
+
+Chromium-based browsers expose internal debugging pages using a browser-specific scheme.  
+If you are using another Chromium-based browser, replace `chrome://` with that browser's scheme.
+
+Examples:
+
+- Google Chrome → `chrome://tab-strip-internals`
+- Microsoft Edge → `edge://tab-strip-internals`
+- Brave → `brave://tab-strip-internals`
+
+All Chromium-based browsers (Google Chrome, Edge, Brave, etc.) support this page.
 
 ## TODO: Add Demo GIF
 
