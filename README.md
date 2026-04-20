@@ -82,6 +82,8 @@ Example of the WebUI showing the live tabstrip model, tab groups, and session me
 
 Special thanks to my mentors for their constant support and technical guidance throughout the project:
 
+Note: Minor documentation improvements for clarity.
+
 - **[Darryl James](https://chromium-review.googlesource.com/q/owner:darryljames%2540chromium.org)**
 - **[Shibalik Mohapatra](https://chromium-review.googlesource.com/q/owner:shibalik%2540chromium.org)**
 - **[Atharv Maan](https://chromium-review.googlesource.com/q/owner:atharvmaan%2540chromium.org)**
